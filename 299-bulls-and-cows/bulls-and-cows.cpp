@@ -22,9 +22,7 @@
 //
 // Explanation: The 1st 1 in friend's guess is a bull, the 2nd or 3rd 1 is a cow.
 //
-// Note: You may assume that the secret number and your friend's guess only contain digits, and their lengths are always equal." />
-//
-//     <meta name="keywords" content="LeetCode, 领扣, 领扣网, 领扣网络, 领扣中国, lingkou, LC, LCCN, LeetCode中国, LeetCode官网, 刷题, 在线编程, LeetCode题库, 面经, 算法, 面试, 面试题, 机器学习, 大数据, 代码, 汇编, 编程, 开发, 程序员, 工程师, 码农, 程序猿, BAT, BAT面试, OJ, online judge, coding , interview, 技术面试, LeetCode中文版, leetcodechina
+// Note: You may assume that the secret number and your friend's guess only contain digits, and their lengths are always equal.
 
 
 class Solution {

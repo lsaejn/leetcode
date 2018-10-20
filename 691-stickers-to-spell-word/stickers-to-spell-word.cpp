@@ -42,9 +42,7 @@
 // target has length in the range [1, 15], and consists of lowercase English letters.
 // In all test cases, all words were chosen randomly from the 1000 most common US English words, and the target was chosen as a concatenation of two random words.
 // The time limit may be more challenging than usual.  It is expected that a 50 sticker test case can be solved within 35ms on average.
-// " />
 //
-//     <meta name="keywords" content="LeetCode, 领扣, 领扣网, 领扣网络, 领扣中国, lingkou, LC, LCCN, LeetCode中国, LeetCode官网, 刷题, 在线编程, LeetCode题库, 面经, 算法, 面试, 面试题, 机器学习, 大数据, 代码, 汇编, 编程, 开发, 程序员, 工程师, 码农, 程序猿, BAT, BAT面试, OJ, online judge, coding , interview, 技术面试, LeetCode中文版, leetcodechina
 
 
 class Solution {   

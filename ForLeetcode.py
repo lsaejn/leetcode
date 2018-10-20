@@ -16,16 +16,6 @@ import html
 from selenium import webdriver
 from collections import namedtuple, OrderedDict
 
-strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-cmd_git_add = 'git add .'
-cmd_git_commit = 'git commit -m "update at {date}"'.format(
-    date=strdate
-)
-cmd_git_push = 'git push -u origin master'
-os.system(cmd_git_add)
-os.system(cmd_git_commit)
-os.system(cmd_git_push)
-
 
 CWD = os.getcwd()
 CONFIG_FILE = os.path.join(CWD, 'config.cfg')
@@ -413,7 +403,7 @@ class Leetcode:
         r = self.session.get(solution_url, proxies=PROXIES)
         assert r.status_code == 200
         pattern = re.compile(
-            r'<meta name=\"description\" content=\"(?P<question>.*)\" />\n    \n    <meta property=\"og:image\"',
+            r'<meta name=\"description\" content=\"(?P<question>.*)\" />\n    \n    <meta name=\"keywords\"',
             re.S,
         )
         m1 = pattern.search(r.text)

@@ -29,9 +29,7 @@
 // 	The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about how a graph is represented.
 // 	You may assume that there are no duplicate edges in the input prerequisites.
 //
-// " />
 //
-//     <meta name="keywords" content="LeetCode, 领扣, 领扣网, 领扣网络, 领扣中国, lingkou, LC, LCCN, LeetCode中国, LeetCode官网, 刷题, 在线编程, LeetCode题库, 面经, 算法, 面试, 面试题, 机器学习, 大数据, 代码, 汇编, 编程, 开发, 程序员, 工程师, 码农, 程序猿, BAT, BAT面试, OJ, online judge, coding , interview, 技术面试, LeetCode中文版, leetcodechina
 
 
 class Solution {
