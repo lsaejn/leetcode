@@ -1,6 +1,7 @@
 # :pencil2: Leetcode Solutions with Cpp
 Update time:  2018-10-20 14:57:26
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
+将原版本修改为leetcode-cn，脚本包含在项目里
 
 I have solved **679   /   732** problems
 while there are **0** problems still locked.
