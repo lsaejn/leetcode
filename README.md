@@ -9,6 +9,7 @@ If you have any question, please give me an [issue](https://github.com/lsaejn/le
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
 
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode-cn.com/problems/two-sum)|[Cpp](https://github.com/lsaejn/leetcode/blob/master/001-two-sum/two-sum.cpp)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
